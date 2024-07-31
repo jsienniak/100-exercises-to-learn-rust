@@ -1,7 +1,6 @@
 [package]
-name = "packages_main"
+name = "packages"
 version = "0.1.0"
 edition = "2021"
 
 [dependencies]
-packages = { path = "src/packages" }
